@@ -42,7 +42,7 @@ In the <a href="https://github.com/JoeWebDev70/06-lab-js-todo">readme</a> you co
 
 ## Figma modeling
 
-Access to the <a href="https://www.figma.com/file/Dvkq07lxpUSzG8DBKEnOer/06-lab-js-todo?type=design&node-id=33%3A150&mode=design&t=6TwZkSokPvFsnLSO-1">figma</a> file.
+Access to <a href="https://www.figma.com/file/Dvkq07lxpUSzG8DBKEnOer/06-lab-js-todo?type=design&node-id=33%3A150&mode=design&t=6TwZkSokPvFsnLSO-1">figma</a>.
 
 ### Download the figma file
 <a href="./figma/06-lab-js-todo.fig">06-lab-js-todo.fig</a>
